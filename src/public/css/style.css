@@ -1,0 +1,12 @@
+﻿@import "bootstrap-datetimepicker.min.css";
+@import "bootstrap-formhelpers.min.css";
+@import "bootstrap-theme.css";
+@import "bootstrap.css";
+@import "starter-template.css";
+
+.center{
+	text-align: center;
+}
+.invalid{
+	color: #a94442;
+}
